@@ -1,0 +1,8 @@
+﻿  Game TD.cpp
+D:\Визуал\Game TD\Game TD\Game TD.cpp(135,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Визуал\Game TD\Game TD\Game TD.cpp(240,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Визуал\Game TD\Game TD\Game TD.cpp(948,40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Визуал\Game TD\Game TD\Game TD.cpp(949,40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Визуал\Game TD\Game TD\Game TD.cpp(1095,7): warning C4101: buf: неиспользованная локальная переменная
+D:\Визуал\Game TD\Game TD\Shapes.h(343): warning C4715: quadrangle::isParallelogram: значение возвращается не при всех путях выполнения
+  Game TD.vcxproj -> D:\Визуал\Game TD\x64\Debug\Game TD.exe
